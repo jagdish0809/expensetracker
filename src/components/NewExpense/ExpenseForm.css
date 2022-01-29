@@ -16,7 +16,8 @@
     font: inherit;
     padding: 0.5rem;
     border-radius: 6px;
-    border: 1px solid #ccc;
+    border: none;
+    outline: none;
     width: 20rem;
     max-width: 100%;
   }
